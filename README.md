@@ -34,8 +34,7 @@ The dataset contains information on various Google Play Store apps, including:
 ## How to Run the Notebook
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/googleplaystore-eda.git
-   cd googleplaystore-eda
+   git clone https://github.com/LouaiMuhammed/Google-play-store-EDA.git
    ```
 
 2. Open Jupyter Notebook:
